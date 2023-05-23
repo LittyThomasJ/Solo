@@ -1,0 +1,135 @@
+html,body{
+	padding::0;
+	margin:0;
+	width:100%;
+	font-family:Arial, Helvetica, sans-serif;
+}
+/* css for home */
+.header
+{
+padding-top:5px;
+text-align: center;
+background:white;
+color:purple;
+}
+.header img{
+	float:left;
+	margin-left:10%;
+}
+ .navnew{	
+	clear:left;
+    overflow: hidden;
+    background-color:#4c0b4cfa;
+    font-family: Arial, Helvetica, sans-serif;
+	margin-bottom:0px;
+	border:0px;
+	border-radius:0px;
+   
+}
+.nwcoll{
+margin-left:7% !important;
+margin-right:7% !important;
+}	
+.navnew .l-nav li a, .navnew .r-nav li a
+{
+    font-size: 18px;
+    color: white;
+    padding: 14px 18px;
+    text-decoration:none; 
+}
+.l-nav li:hover, .r-nav li:hover
+ {
+    background-color:#fff;
+	color:#4c0b4cfa;
+}
+.navnew .l-nav li a:hover,.navnew .r-nav li a:hover{
+	color:#4c0b4cfa;
+}
+.tgl-br, tgl-br:hover{
+	background-color:#fff;
+	color:#4c0b4cfa;
+	border-color:none;
+}
+	
+.mySlides 
+{
+display: none;
+}
+
+.section1{
+	text-align:center;
+}
+.content{
+	margin:80px auto 80px;
+}
+.content p{
+	width:80%;
+	margin:30px auto 0px;
+	text-align:Justify;
+	font-size:16px;
+	line-height:25px;
+}
+.content h1{
+	text-align:center;
+	color:purple;
+}
+.shop{
+	background-color:#000;
+	padding:25px;
+	text-align:center;
+}
+.shop h1{
+	margin:0;
+	color:#FFF;
+}
+.shop span{
+	color:#F60;
+}
+	
+/* Style the footer */
+footer
+ {
+    background-color:#4c0b4cfa;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.icon_bx{
+	margin:50px auto;
+}
+footer img{
+	margin:0 10px;
+}
+.im
+{
+width:150 px;
+text-align:center;
+}
+
+/* Style the login */
+.align-center{
+display: block;
+margin-left:auto;
+margin-right:auto;
+}
+.align-table{
+margin-top:100px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:auto;
+}
+/* Style the register */
+/*.reg
+{
+background-image: url("backreg.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+ background-size: cover;
+}
+.reg tbreg
+{
+background-image:none;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
